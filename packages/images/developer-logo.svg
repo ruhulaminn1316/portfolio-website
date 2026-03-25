@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Developer logo">
+  <defs>
+    <linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#42e8bd"/>
+      <stop offset="100%" stop-color="#0fdc95"/>
+    </linearGradient>
+    <linearGradient id="screenTop" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#73bbf3"/>
+      <stop offset="100%" stop-color="#2e9bf0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="34" y="6" width="24" height="19" rx="3" fill="#e7edf2"/>
+  <rect x="34" y="6" width="24" height="4" rx="3" fill="url(#screenTop)"/>
+  <circle cx="53" cy="8" r="0.9" fill="#122032"/>
+  <circle cx="50.2" cy="8" r="0.9" fill="#122032"/>
+  <circle cx="55.8" cy="8" r="0.9" fill="#122032"/>
+  <path d="M40 14.6l2.3 2.2L40 19" fill="none" stroke="#131722" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M51.8 14.6l-2.3 2.2 2.3 2.2" fill="none" stroke="#131722" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M45.4 13.8l-1 5.8" fill="none" stroke="#131722" stroke-width="1.5" stroke-linecap="round"/>
+
+  <ellipse cx="22" cy="17.5" rx="9.2" ry="8.6" fill="#f4c99d"/>
+  <path d="M13 16.8c1.5-3.7 4.8-6 8.7-6 3.8 0 7 2.1 8.5 5.7v-1.8c0-4.9-3.8-8.4-8.8-8.4-5 0-8.8 3.6-8.8 8.4v2.1z" fill="#7a7280"/>
+  <circle cx="12" cy="17.8" r="2.2" fill="#f0b57f"/>
+  <circle cx="32.2" cy="17.8" r="2.2" fill="#f0b57f"/>
+
+  <path d="M8 41c0-6 4.9-10.9 10.9-10.9h5.6c6 0 10.9 4.9 10.9 10.9V58H8V41z" fill="url(#shirt)"/>
+  <rect x="14" y="30" width="15.4" height="2.6" rx="1.2" fill="#f0b57f"/>
+  <rect x="11.5" y="34" width="20.2" height="17" rx="1.8" fill="#cfd5db"/>
+  <rect x="11.5" y="34" width="2.1" height="17" rx="1" fill="#1a2231"/>
+  <rect x="9.2" y="51" width="24.8" height="3.9" rx="1.5" fill="#b9c3cd"/>
+</svg>
